@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "Unit Price Calculator (kr/kg)",
+    "version": "1.0",
+    "description": "Calculates and displays the price per kilogram for products like coffee, based on price (kr) and weight (g/kg) found on the page.",
+    
+    "content_scripts": [
+      {
+        "matches": ["<all_urls>"],
+        "js": ["content.js"]
+      }
+    ]
+  }
