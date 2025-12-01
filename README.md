@@ -4,15 +4,6 @@ A Chrome extension that automatically calculates and displays unit prices (price
 
 ![Demo](Demo.png)
 
-## Features
-
-- 🛒 Automatically detects prices and weights on any webpage
-- 📊 Calculates and displays price per kg or liter
-- 🌍 Supports multiple currencies (SEK/kr, EUR, USD, GBP)
-- ⚖️ Handles various units (g, kg, ml, L)
-- ⚡ Works with dynamically loaded content
-- 🎯 Smart duplicate prevention
-
 ## Installation
 
 1. **Download the repository**
